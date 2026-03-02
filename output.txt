@@ -1,1 +1,0 @@
-An error occurred while fetching job recommendations: could not execute statement [Table 'job_tracker_db.jobs' doesn't exist] [insert into jobs (applied_date,company,job_description,job_url,status,title) values (?,?,?,?,?,?)]; SQL [insert into jobs (applied_date,company,job_description,job_url,status,title) values (?,?,?,?,?,?)]
